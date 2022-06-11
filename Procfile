@@ -1,2 +1,2 @@
-web:streamlit run custommodel.py
+worker:python custommodel.py
 web:streamlit run custom.py
