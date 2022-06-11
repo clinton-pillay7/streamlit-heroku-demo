@@ -1,2 +1,1 @@
-worker:python custommodel.py
-web:streamlit run custom.py
+web: sh setup.sh && streamlit run app.py
